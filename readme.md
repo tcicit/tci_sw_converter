@@ -67,9 +67,9 @@ Run the Script: Use the command line to execute the script. Here is an example:
 ```
 ## Convert Multiple Images in a Directory:
 
-    Install PIL: If not installed yet (as mentioned above).
+Install PIL: If not installed yet (as mentioned above).
 
-    Run the Script: Use the command line to execute the script for a directory with images. Here is an example:
+Run the Script: Use the command line to execute the script for a directory with images. Here is an example:
 
 ```
     python tci_sw_converter.py -d input_directory -c 1.5 -b 0.8
