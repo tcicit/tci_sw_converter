@@ -24,9 +24,8 @@ Führe das Skript aus: Verwende die Kommandozeile, um das Skript auszuführen. H
  
 ## Mehrere Bilder im Verzeichnis konvertieren:
 
-    Installiere PIL: Falls noch nicht installiert (wie oben beschrieben).
-
-    Führe das Skript aus: Verwende die Kommandozeile, um das Skript für ein Verzeichnis mit Bildern auszuführen. Hier ist ein Beispiel:
+Installiere PIL: Falls noch nicht installiert (wie oben beschrieben).
+Führe das Skript aus: Verwende die Kommandozeile, um das Skript für ein Verzeichnis mit Bildern auszuführen. Hier ist ein Beispiel:
 
 ```
     python tci_sw_converter.py -d input_directory -c 1.5 -b 0.8
