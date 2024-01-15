@@ -3,6 +3,12 @@
 
 Diese Python-Skript verwendet die PIL (Python Imaging Library) Bibliothek, um Bilder in Schwarzweiss umzuwandeln und dabei Kontrast und Helligkeit anzupassen. Hier ist eine kurze Anleitung zur Verwendung des Skripts:
 
+## Beispiele£:
+![Orginal](https://github.com/tcicit/tci_sw_converter/blob/main/bild01.jpg)
+
+
+
+
 Installiere PIL: Stelle sicher, dass die PIL-Bibliothek installiert ist. Du kannst sie mit dem folgenden Befehl installieren:
 
 ```
